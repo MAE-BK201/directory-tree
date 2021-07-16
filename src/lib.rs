@@ -1,5 +1,3 @@
-#![feature(trait_alias)]
-
 use neon::prelude::*;
 use serde::Serialize;
 use serde_json;
