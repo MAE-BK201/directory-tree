@@ -1,5 +1,5 @@
 [package]
-name = "dir-tree"
+name = "directory-tree"
 version = "0.0.1"
 license = "MIT"
 edition = "2018"
@@ -8,7 +8,7 @@ description = "file tree"
 repository = "https://github.com/MAE-BK201/directory-tree"
 
 [lib]
-crate-type = ["cdylib"]
+crate-type = ["dylib"]
 
 [dependencies.neon]
 version = "0.8"
