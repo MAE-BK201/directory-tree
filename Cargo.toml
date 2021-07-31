@@ -8,7 +8,7 @@ description = "file tree"
 repository = "https://github.com/MAE-BK201/directory-tree"
 
 [lib]
-crate-type = ["dylib"]
+crate-type = ["rlib"]
 
 [profile.release]
 panic = "abort"
