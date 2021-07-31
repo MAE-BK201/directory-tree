@@ -5,7 +5,7 @@ license = "MIT"
 edition = "2018"
 exclude = ["index.node"]
 description = "file tree"
-repository = "https://github.com/AliasT/directory-tree"
+repository = "https://github.com/MAE-BK201/directory-tree"
 
 [lib]
 crate-type = ["cdylib"]
