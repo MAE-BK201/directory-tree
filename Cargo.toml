@@ -1,5 +1,5 @@
 [package]
-name = "directory-tree"
+name = "dir-tree"
 version = "0.0.1"
 license = "MIT"
 edition = "2018"
